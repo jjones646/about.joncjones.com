@@ -9,7 +9,7 @@ gems: [jekyll-paginate]
 safe: true
 
 # edit here to achieve your personal greatness
-url: https://joncjones.com
+url: https://about.joncjones.com
 title: Jonathan Jones
 author: Jonathan Jones
 description: Personal blog and resume
