@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/jjones646
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://about.joncjones.com
+  * I am jjones646 (https://keybase.io/jjones646) on keybase.
+  * I have a public key ASBQdRuTUZRmfQhZQUHBToHV5NhCE1emwNPCGE-LwYQDkAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012050751b935194667d08594141c14e81d5e4d8421357a6c0d3c2184f8bc18403900a",
+            "host": "keybase.io",
+            "kid": "012050751b935194667d08594141c14e81d5e4d8421357a6c0d3c2184f8bc18403900a",
+            "uid": "d52ccf3056fd2dd1290d01d2ce131519",
+            "username": "jjones646"
+        },
+        "service": {
+            "hostname": "about.joncjones.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.15"
+    },
+    "ctime": 1463988566,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1463988163,
+        "hash": "035f758f793d7dba7c1a21ffd0b97664e2617c044857b7bd66e93481f392d89a1c8ba79eb2654c63e9a86d3e107e272a2cd11bc67b944907aacdb83f1eff03a5",
+        "seqno": 469147
+    },
+    "prev": "cb3c87a9f6f129731041d2d2fd43201ecc309e244387d59df42e0d71bc57abfc",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgUHUbk1GUZn0IWUFBwU6B1eTYQhNXpsDTwhhPi8GEA5AKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTA3NTFiOTM1MTk0NjY3ZDA4NTk0MTQxYzE0ZTgxZDVlNGQ4NDIxMzU3YTZjMGQzYzIxODRmOGJjMTg0MDM5MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTA3NTFiOTM1MTk0NjY3ZDA4NTk0MTQxYzE0ZTgxZDVlNGQ4NDIxMzU3YTZjMGQzYzIxODRmOGJjMTg0MDM5MDBhIiwidWlkIjoiZDUyY2NmMzA1NmZkMmRkMTI5MGQwMWQyY2UxMzE1MTkiLCJ1c2VybmFtZSI6Impqb25lczY0NiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYWJvdXQuam9uY2pvbmVzLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTUifSwiY3RpbWUiOjE0NjM5ODg1NjYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2Mzk4ODE2MywiaGFzaCI6IjAzNWY3NThmNzkzZDdkYmE3YzFhMjFmZmQwYjk3NjY0ZTI2MTdjMDQ0ODU3YjdiZDY2ZTkzNDgxZjM5MmQ4OWExYzhiYTc5ZWIyNjU0YzYzZTlhODZkM2UxMDdlMjcyYTJjZDExYmM2N2I5NDQ5MDdhYWNkYjgzZjFlZmYwM2E1Iiwic2Vxbm8iOjQ2OTE0N30sInByZXYiOiJjYjNjODdhOWY2ZjEyOTczMTA0MWQyZDJmZDQzMjAxZWNjMzA5ZTI0NDM4N2Q1OWRmNDJlMGQ3MWJjNTdhYmZjIiwic2Vxbm8iOjksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA/JqfbKoDcHDbXbsgNxbzOeyU/NFBIoA4pqvmVFOGXkhr8HJqprvUcjGT0QvbjdABSR5n8XoWd9Ni0acQgWJkCahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jjones646
+
+==================================================================
