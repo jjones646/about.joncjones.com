@@ -1,0 +1,30 @@
+# top level stuff you probably don't need to touch
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+# edit here to achieve your personal greatness
+url: https://joncjones.com
+# baseurl: /sustain/
+title: Jonathan Jones
+author: Jonathan Jones
+description: Personal blog and resume
+avatar: profile.jpg
+email: jjones646@gmail.com
+github: jjones646
+# twitter: username
+linkedin: jonathanjones93
+# stackoverflow: users/1455275/justin-buchanan
+keybase: jjones646
+#Comment out if you don't want disqus 
+# disqus: username
+# google_analytics: UA-69391421-1
+
+# needed for travis-ci build
+exclude: [vendor]
