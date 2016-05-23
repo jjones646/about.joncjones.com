@@ -25,4 +25,8 @@ keybase: jjones646
 # disqus: username
 
 # needed for travis-ci build
-exclude: [vendor]
+exclude:
+  - README.md 
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
