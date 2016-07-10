@@ -4,4 +4,5 @@ ruby "2.2.4"
 gem 'puma'
 gem 'github-pages'
 gem 'html-proofer'
-gem 'omniauth-google-oauth2'
+gem 'jekyll-auth'
+# gem 'omniauth-google-oauth2'
