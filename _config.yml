@@ -6,7 +6,8 @@ rdiscount:
 permalink: /:title.html
 paginate: 5
 safe: true
-gems: [jekyll-paginate, jekyll-auth, html-proofer]
+# gems: [jekyll-paginate, jekyll-auth, html-proofer]
+gems: [jekyll-paginate, 'kramdown']
 
 # edit here to achieve your personal greatness
 url: https://about.joncjones.com
