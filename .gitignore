@@ -14,3 +14,5 @@ Gemfile.lock
 
 # sublime
 *.sublime-workspace
+
+.env
