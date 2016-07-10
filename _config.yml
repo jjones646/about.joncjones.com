@@ -24,7 +24,11 @@ keybase: jjones646
 
 # needed for travis-ci build
 exclude:
-  - README.md 
+  - .gitignore
+  - README.md
+  - LICENSE
   - Gemfile
   - Gemfile.lock
-  - LICENSE
+  - Rakefile
+  - config.ru
+  - vendor
