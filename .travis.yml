@@ -1,8 +1,8 @@
 # from http://jekyllrb.com/docs/continuous-integration/
 language: ruby
 rvm:
-  - 2.1
   - 2.2
+  - 2.3
 # Assume bundler is being used
 script:
   - bundle exec jekyll build
