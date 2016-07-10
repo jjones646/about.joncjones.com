@@ -1,12 +1,12 @@
-# top level stuff you probably don't need to touch
+# top level stuff
 highlighter: rouge
 markdown: rdiscount
 rdiscount:
   extensions: [smart]
 permalink: /:title.html
 paginate: 5
-gems: [jekyll-paginate]
 safe: true
+gems: [jekyll-paginate, jekyll-auth, html-proofer]
 
 # edit here to achieve your personal greatness
 url: https://about.joncjones.com
@@ -21,9 +21,6 @@ email: jjones646@gmail.com
 github: jjones646
 linkedin: jonathanjones93
 keybase: jjones646
-# twitter: username
-# stackoverflow: username
-# disqus: username
 
 # needed for travis-ci build
 exclude:
