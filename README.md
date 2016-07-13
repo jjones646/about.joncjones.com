@@ -1,5 +1,5 @@
 
-# joncjones.com
+# about.joncjones.com
 [![Build Status](https://travis-ci.com/jjones646/joncjones.com.svg?token=66obJcyszSPDZ5hfAzfP)](https://travis-ci.com/jjones646/joncjones.com?token=66obJcyszSPDZ5hfAzfP)
 
 
