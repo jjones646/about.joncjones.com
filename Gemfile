@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
-ruby '2.2.4'
+ruby '2.3.1'
 
-gem 'jekyll'
+gem 'rdiscount'
 gem 'kramdown'
 gem 'rack-jekyll'
 gem 'rake'
